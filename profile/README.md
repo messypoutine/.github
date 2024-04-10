@@ -1,3 +1,4 @@
 Messy poutine, a GitHub organization demonstrating ⚠️ **purposely** vulnerable build pipelines⚠️ .
 
-The sister project is [Best poutine](https://github.com/bestpoutine/) demonstrates similar CI/CD build pipelines following security best practices.
+This is a Capture The Flag (CTF)!
+Submit flags through [private vulnerabilities report UI](https://github.com/messypoutine/gravy-overflow/security/advisories/new).
